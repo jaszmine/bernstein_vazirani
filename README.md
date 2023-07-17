@@ -2,10 +2,10 @@
 
 An implementation of the Bernstein-Vazirani quantum algorithm.
 - The 1st section uses for n=4 qubits with the secret string 1011
-- The second section is applicable to any secret string of any length
+- The 2nd section is applicable to any secret string of any length
 ***
 The Bernstein-Vazirani algorithm is an example of a quantum algorithm that outperforms classical methods.
-- Let's say you have a secret string of 1's and 0's. Then put the secret string in a box (function).
+- Say you have a secret string of 1's and 0's. Then put the secret string in a box (function).
 - Now the computer wants to determine what's inside the box by guessing the secret number.
 
 Classically, 
